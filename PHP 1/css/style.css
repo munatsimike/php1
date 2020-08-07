@@ -1,0 +1,205 @@
+
+
+* {
+  	box-sizing: border-box;
+    margin-top:  10px;
+    padding: 0;
+
+}
+body{
+  width: 960px;
+  margin:auto;
+  background-color: #1C76BC;
+}
+
+.menu{
+  margin: auto;
+  width: 50%;
+}
+.uploadbtn{
+  width: 130px;
+  height: 25px;
+  padding: 2px;
+
+}
+.radio{
+  display:inline;
+}
+.hom{
+  margin: 5px,5px,5px;
+}
+.uploadform{
+  float: left;
+}
+.searchForm{
+  float: ;
+}
+}
+.upload{
+  width: 190px;
+}
+
+
+}
+
+.box{
+  float: left;
+}
+.user{
+  float: left;
+  font-size: 17px;
+  margin-top: 25px;
+  margin-right: 10px;
+}
+.profilePic{
+  float: left;
+  margin-top: -3px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+hr{
+  width: 980px;
+}
+.searchfield{
+  border-radius: 4px;
+}
+main{
+margin: auto;
+margin-top: 40px;
+  width: 58%;
+  background-color: #fff;
+}
+.submitbtn  {
+  background-color: #45a049;
+  color: white;
+  padding: 11px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  width: 320px;
+  height: 40px;
+  border-radius: 5px;
+  display: inline-block;
+
+}
+.cancelbtn  {
+  background-color: #dddd;
+  color: black;
+  padding: 11px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  width: 320px;
+  height: 40px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.loginpg{
+  border-radius: 9px;
+  border: 2px solid #1B75BC;
+  padding: 25px;
+  margin: auto;
+  margin-top: 70px;
+}
+
+form, h1{
+  width: 60%;
+  margin: auto;
+}
+form input[type=submit]:hover {
+  background-color: ##1C76BC;
+}
+
+form input{
+  height: 30px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+.error{
+  color:#BE1A1A;
+  margin-left:30px;
+}
+
+.home{
+  margin: auto;
+  margin-top: 40px;
+    width: 990px;
+    border: none;
+}
+table{
+  width: 980px;
+  border-collapse: collapse;
+  margin: 5px;
+
+}
+tr{
+  height: 40px;
+
+}
+th{
+  background-color: #CEF0C4;
+}
+.birthdays:nth-child(odd){
+  background-color: #dddd;
+}
+a{
+  text-decoration: none;
+  font-size: 19px;
+}
+td,th{
+  padding-left: 9px;
+  text-align: left;
+
+}
+
+caption{
+  font-size: 20px;
+  font-weight: bold;
+}
+label {
+  display: inline-block;
+  text-align: right;
+  width: 140px;
+  font-size: 18px;
+}​
+.g-recaptcha{
+  width: 310px;
+  margin: auto;
+}
+
+.center{
+  margin-left: auto;
+  width: 75%;
+  font-size: 22px
+}
+.lgin{
+  width: 70px;
+  margin: 3px;
+}
+.success{
+  margin-left: auto;
+  width: 80%;
+  font-size: 22px;
+  color: #00A250;
+}
+.failure{
+  margin-left: auto;
+  width: 80%;
+  font-size: 22px;
+  color: red;
+.failure{
+  color: red;
+}
+.editbtn {
+    padding: 2px 5px;
+    background: #2E8B57;
+    color: white;
+    border-radius: 3px;
+}
+
+.delbtn {
+    padding: 2px 5px;
+    color: white;
+    border-radius: 3px;
+    background: #800000;
